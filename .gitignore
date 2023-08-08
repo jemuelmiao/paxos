@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+
+# Editor directories and files
+.vscode
+.idea
+__pycache__
+*.pyc
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+.codecc
+.out
